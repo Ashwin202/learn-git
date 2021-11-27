@@ -2,7 +2,7 @@
 
 ### About me🧑:
 <img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg" width="100" height="100">
- I am an Electronics and Communication Engineering (ECE) student, leveraging solid academic knowledge and practical work experience to develop highly efficient programs. He has hands on experience in working with team members and individually developing practical solutions to relevant problems with excellent exposure in programing with proficiency 
+ I am an Electronics and Communication Engineering (ECE) student, leveraging solid academic knowledge and practical work experience to develop highly efficient programs. I have hands on experience in working with team members and individually developing practical solutions to relevant problems with excellent exposure in programing with proficiency 
 I am self-motivated, hardworking, and goal-oriented developer with a high degree of flexibility, creativity, resourcefulness, commitment and optimism.<br/>
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 I am interested in learning ML,AI and would 💖 to grow my knowledge in these Technologies.<br/>
